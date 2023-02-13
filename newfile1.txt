@@ -1,2 +1,3 @@
 this is the data in master branch "newfile1.txt"
 this is the data in 1stbranch newfile1.txt
+adding one more line to check the edit option
